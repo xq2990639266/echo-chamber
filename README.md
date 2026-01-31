@@ -1,6 +1,4 @@
 # echo-chamber
-test
-成功！
 Code and examples for Echo Chamber LLM Jailbreak.
 
 ![Echo Chamber Example](./imgs/echo-chamber-example.svg)
